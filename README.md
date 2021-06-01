@@ -1,5 +1,12 @@
 # Guess-The-Number-Game by Elderny
 
+Modules required:
+pygame module
+
+To install type:
+pip install pygame
+
+
 Please control the sound of your device as this game has audio-file
 
 Instructions: You need to fill names for both players you are your opponent,
